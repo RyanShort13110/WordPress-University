@@ -1,4 +1,4 @@
-# "University" WirdPress theme
+# "University" WordPress theme
 A fun, customizable WordPress theme built with PHP, JavaScript, CSS, and HTML.
 
 <div id="top"></div>
