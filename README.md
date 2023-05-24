@@ -1,5 +1,5 @@
-# Raw Curiosity
-View photos the general public has likely never seen from the Curiosity, Opportunity, and Spirit rovers currently on mars.
+# "University" WirdPress theme
+A fun, customizable WordPress theme built with PHP, JavaScript, CSS, and HTML.
 
 <div id="top"></div>
 
@@ -7,7 +7,7 @@ View photos the general public has likely never seen from the Curiosity, Opportu
 
 <br />
 
-<h3 align="center">Raw Curiosity</h3>
+<h3 align="center">"University" Theme</h3>
 
 <div align="center">
     <img src="https://github.com/RyanShort13110/WordPress-University/blob/main/WP-university-theme.gif" alt="Logo" width="400">
@@ -86,8 +86,6 @@ Can be changed to fit numerous situations and applications.
 ## Contact
 
 Ryan - ryanshort.dev@gmail.com
-
-Project Link: [Raw Curiosity](https://rawcuriosity.netlify.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
