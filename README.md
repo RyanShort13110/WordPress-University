@@ -36,7 +36,7 @@ A fun, customizable WordPress theme built with PHP, JavaScript, CSS, and HTML.
 <!-- ABOUT THE PROJECT -->
 ## About
 
-A functional, custom-built WordPress theme meant to be reusable across a wide variety of situations. Currently optimized specifically for universities.
+A functional, custom-built WordPress theme meant to be reusable across a wide variety of situations. Currently optimized specifically for universities. Still a work in progress; I'll be making occasional updtaes here and there.
 
 ### Built With
 
